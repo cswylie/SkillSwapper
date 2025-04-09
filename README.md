@@ -39,3 +39,12 @@ Start backend server: <br />
 `npm run dev` <br /> <br />
 
 Once both frontend and backend are running then follow the link provided in terminal to view the application
+
+
+## Developer Credits:
+* Hailey Hemmingsen
+* Shirin Rokni
+* Bradley Haire
+* Sanya Murdeshwar
+* Clarice Park
+* Christian Wylie
